@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background-color: rgb(222, 98, 98, 0.8);
+  color: #fff;
+}
+.far{
+  font-size: 5rem;
+  margin: 0 20px;
+}
+.far:hover{
+  color: #000;
+}
+
+.handSelected{
+  color: #000;
+}
